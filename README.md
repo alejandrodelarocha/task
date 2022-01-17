@@ -12,7 +12,7 @@ yarn run
 
 ### Environment variables
 ```sh
-REACT_APP_GITHUB_TOKEN=(TOKEN)
+REACT_APP_GITHUB_TOKEN=(PLACE_YOUR_TOKEN_HERE)
 REACT_APP_GITHUB_ENDPOINT=https://api.github.com/graphql
 ```
 
