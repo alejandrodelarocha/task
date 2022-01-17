@@ -12,7 +12,7 @@ yarn run
 
 ### Environment variables
 ```sh
-REACT_APP_GITHUB_TOKEN=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
+REACT_APP_GITHUB_TOKEN=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
 REACT_APP_GITHUB_ENDPOINT=https://api.github.com/graphql
 ```
 Tokens should not be in the README file, but this is only for practical purposes
